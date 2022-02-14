@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rosemondketeni
+- 👋 Hi, I’m Rosemond Keteni
 - 👀 I’m interested in exploring more about coding
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on any interesting project
